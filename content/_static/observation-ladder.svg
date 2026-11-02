@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 540" role="img" aria-labelledby="title desc">
+<title id="title">From observation to decision</title><desc id="desc">AIS broadcasts and satellite pixels support object detections, classification, interpretation and decisions. Each step introduces assumptions.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#839eaa"/></marker></defs>
+<rect width="1100" height="540" rx="18" fill="#081f32"/>
+<text x="38" y="50" fill="white" font-size="27" font-family="Arial,sans-serif" font-weight="700">From observation to decision</text>
+<path d="M340.0 165.0L400.0 165.0" stroke="#839eaa" stroke-width="2.2" fill="none" marker-end="url(#arrow)"/>
+<path d="M700.0 165.0L760.0 165.0" stroke="#839eaa" stroke-width="2.2" fill="none" marker-end="url(#arrow)"/>
+<path d="M775.0 220.0L505.0 330.0" stroke="#839eaa" stroke-width="2.2" fill="none" marker-end="url(#arrow)"/>
+<path d="M520.0 385.0L620.0 385.0" stroke="#839eaa" stroke-width="2.2" fill="none" marker-end="url(#arrow)"/>
+<rect x="40" y="110" width="300" height="110" rx="10" fill="#15364a" stroke="#27c7b8" stroke-width="2"/>
+<text x="56" y="140" fill="#27c7b8" font-size="19" font-family="Arial,sans-serif" font-weight="700">1 / Measurement</text>
+<text x="56" y="166" fill="#e1ebee" font-size="15" font-family="Arial,sans-serif">AIS messages or SAR pixels</text>
+<text x="56" y="186" fill="#e1ebee" font-size="15" font-family="Arial,sans-serif">Instrument, time, footprint</text>
+<rect x="400" y="110" width="300" height="110" rx="10" fill="#15364a" stroke="#27c7b8" stroke-width="2"/>
+<text x="416" y="140" fill="#27c7b8" font-size="19" font-family="Arial,sans-serif" font-weight="700">2 / Detection</text>
+<text x="416" y="166" fill="#e1ebee" font-size="15" font-family="Arial,sans-serif">A candidate object or track</text>
+<text x="416" y="186" fill="#e1ebee" font-size="15" font-family="Arial,sans-serif">Quality flags and uncertainty</text>
+<rect x="760" y="110" width="300" height="110" rx="10" fill="#15364a" stroke="#27c7b8" stroke-width="2"/>
+<text x="776" y="140" fill="#27c7b8" font-size="19" font-family="Arial,sans-serif" font-weight="700">3 / Classification</text>
+<text x="776" y="166" fill="#e1ebee" font-size="15" font-family="Arial,sans-serif">Vessel? Fishing? Matched?</text>
+<text x="776" y="186" fill="#e1ebee" font-size="15" font-family="Arial,sans-serif">Model output, not ground truth</text>
+<rect x="220" y="330" width="300" height="110" rx="10" fill="#15364a" stroke="#ffc66a" stroke-width="2"/>
+<text x="236" y="360" fill="#ffc66a" font-size="19" font-family="Arial,sans-serif" font-weight="700">4 / Interpretation</text>
+<text x="236" y="386" fill="#e1ebee" font-size="15" font-family="Arial,sans-serif">Pressure, visibility, hypothesis</text>
+<text x="236" y="406" fill="#e1ebee" font-size="15" font-family="Arial,sans-serif">Alternative explanations</text>
+<rect x="620" y="330" width="300" height="110" rx="10" fill="#15364a" stroke="#ffc66a" stroke-width="2"/>
+<text x="636" y="360" fill="#ffc66a" font-size="19" font-family="Arial,sans-serif" font-weight="700">5 / Decision</text>
+<text x="636" y="386" fill="#e1ebee" font-size="15" font-family="Arial,sans-serif">Bounded action + new evidence</text>
+<text x="636" y="406" fill="#e1ebee" font-size="15" font-family="Arial,sans-serif">Community and scientific review</text>
+<text x="38" y="520" fill="#a6bfcb" font-size="13" font-family="Arial,sans-serif">Conceptual teaching diagram · arrows describe reasoning or possible pathways, not measured causal effects.</text></svg>

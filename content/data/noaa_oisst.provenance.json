@@ -1,0 +1,35 @@
+{
+  "dataset": "ncdcOisst21Agg_LonPM180",
+  "product": "NOAA NCEI OISST v2.1 final, daily, 0.25 degree",
+  "url": "https://coastwatch.pfeg.noaa.gov/erddap/griddap/ncdcOisst21Agg_LonPM180.csv?sst[(2024-01-01T12:00:00Z):1:(2024-12-31T12:00:00Z)][(0.0)][(54.625)][(12.125)],err[(2024-01-01T12:00:00Z):1:(2024-12-31T12:00:00Z)][(0.0)][(54.625)][(12.125)]",
+  "metadata_url": "https://coastwatch.pfeg.noaa.gov/erddap/info/ncdcOisst21Agg_LonPM180/index.json",
+  "point_lat_lon": [
+    54.625,
+    12.125
+  ],
+  "period": "2024-01-01/2024-12-31",
+  "retrieved": "2026-11-02",
+  "retrieval_date_timezone": "UTC",
+  "attribution": "NOAA National Centers for Environmental Information; distributed by NOAA CoastWatch ERDDAP",
+  "license": "The data may be used and redistributed for free but is not intended\nfor legal use, since it may contain inaccuracies. Neither the data\nContributor, ERD, NOAA, nor the United States Government, nor any\nof their employees or contractors, makes any warranty, express or\nimplied, including warranties of merchantability and fitness for a\nparticular purpose, or assumes any legal liability for the accuracy,\ncompleteness, or usefulness, of this information.",
+  "rows": 365,
+  "missing_dates_utc": [
+    "2024-03-31T12:00:00+00:00"
+  ],
+  "units": {
+    "sst": "degree_C",
+    "err": "degree_C"
+  },
+  "transformation": "ERDDAP point/time subset; normalized CSV removes units row only; no imputation or resampling",
+  "caveat": "Interpolated/extrapolated analysis merging satellite and in situ observations; a complete field is not cloud-free direct observation. Error is provider-estimated standard deviation, not a confidence interval.",
+  "files": [
+    {
+      "file": "noaa_oisst_2024_point_raw.csv",
+      "sha256": "c594c87f4867d5375e9dd2bd9cb7f8558d4f9a6dee24fc935b36b29760b00298"
+    },
+    {
+      "file": "noaa_oisst_2024_point.csv",
+      "sha256": "e8988e88fa676a4016ba09150ff48cdb54a534683938bfc4539af21ae6345a14"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "sar_activity_2017_2021.npz": {
+    "source": "raster_5th_degree.feather",
+    "transformation": "Selected columns; cell centers = index / 5 + 0.1; no imputation.",
+    "rows": 139189,
+    "sha256": "a23dd081c90c609a6629bfa619a759f1f3103141a0b5d258bc311080b02aeba4",
+    "license": "CC-BY-4.0",
+    "doi": "10.6084/m9.figshare.24309475",
+    "period": "2017-2021"
+  },
+  "sar_activity_1deg.csv": {
+    "source": "raster_5th_degree.feather",
+    "transformation": "1-degree bins; sum of source per-overpass normalized cell activity; min_count=1; center = floor(degrees)+0.5.",
+    "rows": 7808,
+    "sha256": "d6a98d865978bd74e57f7df51381591c040e747ab046eca7ef2c4096c5fe2cca",
+    "license": "CC-BY-4.0",
+    "doi": "10.6084/m9.figshare.24309475",
+    "period": "2017-2021"
+  }
+}

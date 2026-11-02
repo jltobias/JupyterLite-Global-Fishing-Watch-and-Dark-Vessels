@@ -1,0 +1,28 @@
+format: jb-book
+root: index
+parts:
+  - caption: "Start with the evidence"
+    chapters:
+      - file: getting-started
+      - file: observation
+      - file: 01_observed_ocean
+      - file: 02_ocean_in_3d
+  - caption: "Find what tracking misses"
+    chapters:
+      - file: dark-vessels
+      - file: 03_matching_and_uncertainty
+      - file: 04_sar_detection
+      - file: 05_satellite_catalog
+      - file: 09_gfw_workbench
+  - caption: "Connect ocean and population health"
+    chapters:
+      - file: one-health
+      - file: 06_environment_and_health
+      - file: 07_food_and_equity
+      - file: 08_fish_stocks
+  - caption: "Turn insight into a study"
+    chapters:
+      - file: case-studies
+      - file: capstone
+      - file: methods
+      - file: sources

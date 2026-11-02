@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite this teaching project and separately cite the datasets you use."
+title: "Ocean Watch: Fishing, Dark Vessels and One Health"
+type: software
+authors:
+  - name: "jltobias and contributors"
+version: 1.0.0
+date-released: 2026-11-01
+repository-code: https://github.com/jltobias/JupyterLite-Global-Fishing-Watch-and-Dark-Vessels
+url: https://jltobias.github.io/JupyterLite-Global-Fishing-Watch-and-Dark-Vessels/
+license: MIT
+abstract: "A Jupyter Book and browser-based JupyterLite laboratory exploring fishing activity, dark vessels, satellite observation and One Health with attributed observations and labeled simulations."

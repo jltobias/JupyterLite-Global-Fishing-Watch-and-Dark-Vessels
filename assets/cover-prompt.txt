@@ -1,0 +1,7 @@
+Mode: OpenAI built-in image generation (image_gen), new image, illustration-story.
+Generated: 2026-11-01.
+Project assets: content/_static/ocean-onehealth-cover.png and .webp.
+The WebP is a compressed derivative of the original PNG.
+
+Prompt:
+Create one wide editorial cover illustration, landscape 16:9, for an open educational Jupyter Book about ocean observation, fishing vessels, and One Health. Use-case: illustration-story. Polished scientific editorial illustration, rich deep navy ocean, luminous turquoise currents, amber highlights, restrained white linework. A small fishing vessel on the ocean surface, a radar satellite high above casting a subtle transparent scanning fan, fish and a healthy underwater ecosystem below, and a distant inhabited coastline gently connected as one scene. View is an elegant oblique cutaway of sea and seabed. Convey observation and ecological interdependence with quiet visual sophistication, not surveillance menace. Keep the left upper quarter relatively open for HTML title overlay, but do not include any letters, words, numbers, logos, flags, brand marks, fabricated data plots, or quantitative legend. This is a conceptual illustration, not a real satellite scene. No photorealistic geographic claim. High quality book cover suitable for a GitHub README splash.

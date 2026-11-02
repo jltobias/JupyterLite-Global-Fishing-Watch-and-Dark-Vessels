@@ -1,0 +1,11 @@
+* text=auto eol=lf
+
+# Provenance checksums describe exact downloaded/derived bytes. Never change
+# their line endings during add/checkout, including on Windows.
+content/data/** -text -whitespace
+content/_static/plotly.min.js -whitespace
+
+*.png binary
+*.webp binary
+*.npz binary
+*.feather binary

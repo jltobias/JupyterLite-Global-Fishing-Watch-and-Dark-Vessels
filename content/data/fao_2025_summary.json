@@ -1,0 +1,10 @@
+{
+  "source": "FAO (2025). Review of the state of world marine fishery resources - 2025",
+  "url": "https://www.fao.org/newsroom/detail/fao-releases-the-most-detailed-global-assessment-of-marine-fish-stocks-to-date",
+  "retrieved": "2026-11-01",
+  "kind": "Attributed factual transcription of two published summary values, not a report data export",
+  "assessed_stocks": 2570,
+  "sustainable_stock_count_percent": 64.5,
+  "sustainable_production_weighted_landings_percent": 77.2,
+  "note": "Denominators differ; assessment methods changed. Not an automatically updated time series."
+}

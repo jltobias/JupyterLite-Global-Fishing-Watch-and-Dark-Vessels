@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 540" role="img" aria-labelledby="title desc">
+<title id="title">One ocean · connected health</title><desc id="desc">Marine ecosystems support aquatic food and livelihoods; environmental change can affect ecosystems and exposure. Distribution, governance and measurement connect these to population health.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#839eaa"/></marker></defs>
+<rect width="1100" height="540" rx="18" fill="#081f32"/>
+<text x="38" y="50" fill="white" font-size="27" font-family="Arial,sans-serif" font-weight="700">One ocean · connected health</text>
+<path d="M330.0 162.5L405.0 162.5" stroke="#839eaa" stroke-width="2.2" fill="none" marker-end="url(#arrow)"/>
+<path d="M695.0 162.5L770.0 162.5" stroke="#839eaa" stroke-width="2.2" fill="none" marker-end="url(#arrow)"/>
+<path d="M185.0 325.0L185.0 220.0" stroke="#839eaa" stroke-width="2.2" fill="none" marker-end="url(#arrow)"/>
+<path d="M330.0 382.5L405.0 382.5" stroke="#839eaa" stroke-width="2.2" fill="none" marker-end="url(#arrow)"/>
+<path d="M645.3977272727273 325.0L819.6022727272727 220.0" stroke="#839eaa" stroke-width="2.2" fill="none" marker-end="url(#arrow)"/>
+<path d="M915.0 220.0L915.0 325.0" stroke="#839eaa" stroke-width="2.2" fill="none" marker-end="url(#arrow)"/>
+<rect x="40" y="105" width="290" height="115" rx="10" fill="#15364a" stroke="#27c7b8" stroke-width="2"/>
+<text x="56" y="135" fill="#27c7b8" font-size="19" font-family="Arial,sans-serif" font-weight="700">Marine ecosystems</text>
+<text x="56" y="161" fill="#e1ebee" font-size="15" font-family="Arial,sans-serif">Stocks, habitats, biodiversity</text>
+<text x="56" y="181" fill="#e1ebee" font-size="15" font-family="Arial,sans-serif">Growth, bycatch, resilience</text>
+<rect x="405" y="105" width="290" height="115" rx="10" fill="#15364a" stroke="#27c7b8" stroke-width="2"/>
+<text x="421" y="135" fill="#27c7b8" font-size="19" font-family="Arial,sans-serif" font-weight="700">Aquatic food systems</text>
+<text x="421" y="161" fill="#e1ebee" font-size="15" font-family="Arial,sans-serif">Landings, trade, loss, prices</text>
+<text x="421" y="181" fill="#e1ebee" font-size="15" font-family="Arial,sans-serif">Access and working conditions</text>
+<rect x="770" y="105" width="290" height="115" rx="10" fill="#15364a" stroke="#27c7b8" stroke-width="2"/>
+<text x="786" y="135" fill="#27c7b8" font-size="19" font-family="Arial,sans-serif" font-weight="700">People and communities</text>
+<text x="786" y="161" fill="#e1ebee" font-size="15" font-family="Arial,sans-serif">Nutrition, income, well-being</text>
+<text x="786" y="181" fill="#e1ebee" font-size="15" font-family="Arial,sans-serif">Intake is not availability</text>
+<rect x="40" y="325" width="290" height="115" rx="10" fill="#15364a" stroke="#ffc66a" stroke-width="2"/>
+<text x="56" y="355" fill="#ffc66a" font-size="19" font-family="Arial,sans-serif" font-weight="700">Environmental pressures</text>
+<text x="56" y="381" fill="#e1ebee" font-size="15" font-family="Arial,sans-serif">Warming, pollution, runoff</text>
+<text x="56" y="401" fill="#e1ebee" font-size="15" font-family="Arial,sans-serif">Hazards need direct evidence</text>
+<rect x="405" y="325" width="290" height="115" rx="10" fill="#15364a" stroke="#ffc66a" stroke-width="2"/>
+<text x="421" y="355" fill="#ffc66a" font-size="19" font-family="Arial,sans-serif" font-weight="700">Exposure pathways</text>
+<text x="421" y="381" fill="#e1ebee" font-size="15" font-family="Arial,sans-serif">Seafood, water contact, work</text>
+<text x="421" y="401" fill="#e1ebee" font-size="15" font-family="Arial,sans-serif">Dose, timing, susceptibility</text>
+<rect x="770" y="325" width="290" height="115" rx="10" fill="#15364a" stroke="#ffc66a" stroke-width="2"/>
+<text x="786" y="355" fill="#ffc66a" font-size="19" font-family="Arial,sans-serif" font-weight="700">Shared response</text>
+<text x="786" y="381" fill="#e1ebee" font-size="15" font-family="Arial,sans-serif">Co-management + monitoring</text>
+<text x="786" y="401" fill="#e1ebee" font-size="15" font-family="Arial,sans-serif">Health and ecological outcomes</text>
+<text x="38" y="520" fill="#a6bfcb" font-size="13" font-family="Arial,sans-serif">Conceptual teaching diagram · arrows describe reasoning or possible pathways, not measured causal effects.</text></svg>

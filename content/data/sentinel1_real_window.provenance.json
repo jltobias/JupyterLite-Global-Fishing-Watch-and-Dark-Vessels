@@ -1,0 +1,42 @@
+{
+  "file": "sentinel1_real_window.npz",
+  "item_id": "S1A_IW_GRDH_1SDV_20240629T170109_20240629T170134_054541_06A345_rtc",
+  "collection": "sentinel-1-rtc",
+  "acquired": "2024-06-29T17:01:22.420072Z",
+  "retrieved": "2026-11-02",
+  "asset_href_unsigned": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/6/29/IW/DV/S1A_IW_GRDH_1SDV_20240629T170109_20240629T170134_054541_06A345_EA97/measurement/iw-vv.rtc.tiff",
+  "band": "vv",
+  "units": "linear gamma0 backscatter",
+  "transformation": "Window read at source pixel spacing; nodata/nonpositive -> NaN; no resampling",
+  "crs": "EPSG:32632",
+  "transform": [
+    10.0,
+    0.0,
+    699150.0,
+    0.0,
+    -10.0,
+    6008860.0,
+    0.0,
+    0.0,
+    1.0
+  ],
+  "bounds_in_crs": [
+    699150.0,
+    6003740.0,
+    704270.0,
+    6008860.0
+  ],
+  "center_lon_lat": [
+    12.09,
+    54.165
+  ],
+  "shape": [
+    512,
+    512
+  ],
+  "sha256": "f3a963b5cfb61bfb05bc618915d503080daee97a0561c7592018806d29608ff6",
+  "attribution": "Contains modified Copernicus Sentinel data (2024), processed by Microsoft Planetary Computer.",
+  "license_url": "https://sentinels.copernicus.eu/documents/247904/690755/Sentinel_Data_Legal_Notice",
+  "note": "Actual calibrated radar pixels. No vessel labels, AIS matches or validated detections are supplied.",
+  "retrieval_date_timezone": "UTC"
+}

@@ -1,0 +1,49 @@
+{
+  "retrieved": "2026-11-01",
+  "article_version": 4,
+  "citation": "Paolo et al. (2024). Satellite mapping reveals extensive industrial activity at sea. Nature 625, 85-91. doi:10.1038/s41586-023-06825-8",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "files": [
+    {
+      "file": "raster_5th_degree.feather",
+      "source_file_id": 42699010,
+      "url": "https://ndownloader.figshare.com/files/42699010",
+      "sha256": "e064428118c5528a0857986e0d14f24cff70219afe7361253c621bf53f6f5499",
+      "source_md5": "3bdb5b31bc6c5afb6620e79c265c6d88",
+      "bytes": 10575666,
+      "license": "CC-BY-4.0",
+      "doi": "10.6084/m9.figshare.24309475"
+    },
+    {
+      "file": "vessel_barplots_v20230815.csv",
+      "source_file_id": 42699019,
+      "url": "https://ndownloader.figshare.com/files/42699019",
+      "sha256": "b91c7fd7d400b8e9191d35040057220655230bcc8c5362001627d317e4f775a9",
+      "source_md5": "b162fdb23d978130f6e338a10c8b9d94",
+      "bytes": 22638,
+      "license": "CC-BY-4.0",
+      "doi": "10.6084/m9.figshare.24309475"
+    },
+    {
+      "file": "vessels_bycontinent_v20230803.csv",
+      "source_file_id": 44031657,
+      "url": "https://ndownloader.figshare.com/files/44031657",
+      "sha256": "3be768038cdeeb2e12921c2e7d30ff2abc448be5c84e0eadd790cb7895fe2858",
+      "source_md5": "3d1adcee5218c4631f58b80109f8d718",
+      "bytes": 3698,
+      "license": "CC-BY-4.0",
+      "doi": "10.6084/m9.figshare.24309475"
+    },
+    {
+      "file": "paolo2024_README.md",
+      "source_file_id": 45162958,
+      "url": "https://ndownloader.figshare.com/files/45162958",
+      "sha256": "e1f4d00b81751accb93b397260645f6ea660af9eb01a1c2c7418b0dc4170dad3",
+      "source_md5": "62a3185905d06921632bb3ceee8f54a6",
+      "bytes": 15152,
+      "license": "CC-BY-4.0",
+      "doi": "10.6084/m9.figshare.24309475"
+    }
+  ],
+  "retrieval_date_timezone": "UTC"
+}

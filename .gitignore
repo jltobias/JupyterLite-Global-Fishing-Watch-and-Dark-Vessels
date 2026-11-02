@@ -1,0 +1,15 @@
+.venv/
+.build-deps/
+_build/
+_site/
+_lite/
+.jupyter_cache/
+**/.ipynb_checkpoints/
+**/__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+**/data/private/
+_bmad.setup-*/
+.jupyterlite.doit.db*

@@ -1,0 +1,27 @@
+title: "Ocean Watch: Fishing, Dark Vessels & One Health"
+author: "jltobias and contributors"
+copyright: "2026"
+logo: _static/ocean-mark.svg
+only_build_toc_files: true
+execute:
+  execute_notebooks: "off"
+repository:
+  url: https://github.com/jltobias/JupyterLite-Global-Fishing-Watch-and-Dark-Vessels
+  branch: main
+  path_to_book: content
+html:
+  favicon: _static/ocean-mark.svg
+  use_repository_button: true
+  use_issues_button: true
+  extra_navbar: '<a href="https://jltobias.github.io/JupyterLite-Global-Fishing-Watch-and-Dark-Vessels/lab/index.html">Launch browser lab ↗</a>'
+  extra_footer: 'Independent educational project. Data licenses and observation limits apply. <a href="sources.html">Sources & attribution</a>.'
+sphinx:
+  config:
+    html_static_path: ["_static"]
+    html_css_files: ["ocean.css"]
+    html_theme_options:
+      navigation_with_keys: false
+      home_page_in_toc: true
+      show_navbar_depth: 2
+    nb_execution_show_tb: true
+    suppress_warnings: ["myst.header"]
